@@ -15,12 +15,12 @@
 
 		<p>
 			Brew - we install this thing as it helps us then install the other stuff we need.
-			<a href="https://www.brew.sh" target="_blank">You can find instructions right over here</a>
+			<a href="https://brew.sh" target="_blank">You can find instructions right over here</a>
 		</p>
 
 		<p>
 			xcode-select installed by running <code>xcode-select --install</code>. This is some Apple crap you'll need to run some stuff.
-			<a href="https://macpaw.com/how-to/install-command-line-tools" target="_blank">If you'll walk right this way you can find information on just over here</a>
+			<a href="https://macpaw.com/how-to/install-command-line-tools" target="_blank">If you'll walk right this way you can find information just over here</a>
 		</p>
 	</section>
 
